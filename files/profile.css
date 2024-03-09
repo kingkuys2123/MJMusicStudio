@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Poppins", sans-serif;
+}
+
+body{
+	background-image: url("assets/bg-1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-color: darkgray;
+}
+
+.main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.container {
+  position: relative;
+  text-align: left;
+}
+
+.top-left {
+  position: absolute;
+  top: 150px;
+  left: 50px;
+}
+
+.centered {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container h1{
+	font-size: 36px;
+}
+
+.spacing {
+    margin-bottom: 18px;
+}
+
+.button{
+	background: #fff;
+	outline: none;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0, .1);
+	cursor: pointer;
+	font-size: 16px;
+	color: #333;
+	font-weight: 600;
+}
+
+.delete-button{
+	background: #fff;
+	outline: none;
+	border-radius: 5px;
+	border-color: #800000;
+	box-shadow: 0 0 10px rgba(0,0,0, .1);
+	cursor: pointer;
+	font-size: 16px;
+	color: #800000;
+	font-weight: 600;
+}
+
+.home-link{
+	position: absolute;
+	margin: 10px;
+}
+
+.home-link a{
+	display: inline-block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: 600;
+	letter-spacing: 1px;
+	color: white;
+	font-size: 16px;
+}
+
+.home-link a:hover{
+	background-color: white;
+	color: black;
+}
