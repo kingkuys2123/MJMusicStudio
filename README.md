@@ -39,6 +39,7 @@ our community of visionary supporters. Together, let's transform the way you cre
 </a>
 
 <br>
+<br>
 
 ## Screenshots
 
