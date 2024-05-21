@@ -21,6 +21,9 @@ our community of visionary supporters. Together, let's transform the way you cre
 #### Languages:
 
 <a href="#languages">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+<a href="#languages">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
 <a href="#languages">
